@@ -12,11 +12,13 @@ However, as a majority of projects in VueJS are still in 2.x code base, here we 
 
 Part 1: {% post_link VueJS-vs-React-Hooks-Part-1-Access-DOM 'Access DOM' %}
 
-Part 2: Access parent context
+Part 2: {% post_link VueJS-vs-React-Hooks-Part-2-Access-Parent 'Access parent context' %}
 
-Part 3: Props validation
+Part 3: {% post_link VueJS-vs-React-Hooks-Part3-Props-Validation 'Props Validation' %}
 
-Part 4: Computation
+Part 4: {% post_link VueJS-vs-React-Hooks-Part4-Computation 'Computation' %}
 
-Part 5: Imperative
+Part 5: {% post_link VueJS-vs-React-Hooks-Part-5-Imperative-Programming 'Imperative Programming' %}
+
+Part 6: {% post_link VueJS-vs-React-Hooks-Part-6-Closure 'Closure' %}
 
