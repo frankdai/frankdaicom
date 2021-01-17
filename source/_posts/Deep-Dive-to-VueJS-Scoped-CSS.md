@@ -1,5 +1,5 @@
 ---
-title: 'Deep Dive into VueJS VFC & Scoped CSS'
+title: 'Deep Dive into VueJS SFC & Scoped CSS'
 date: 2021-01-17 18:44:22
 tags: vuejs, scoped, css, style, vue-loader
 ---
