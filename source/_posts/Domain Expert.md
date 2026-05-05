@@ -1,3 +1,9 @@
+---
+title: 'Domain Expert'
+date: 2026-05-04 00:00:00
+tags: ai, domain-expert, software
+---
+
 Domain experts may become more valuable, not less, in the AI era.
 
 AI lowers the cost of software creation, but it does not lower the cost of knowing what should be built, what constraints matter, what data can be trusted, and what decisions are acceptable in a real operating environment. The bottleneck shifts from pure implementation to domain judgment.
