@@ -22,5 +22,4 @@ Part 5: {% post_link VueJS-vs-React-Hooks-Part-5-Imperative-Programming 'Imperat
 
 Part 6: {% post_link VueJS-vs-React-Hooks-Part-6-Closure 'Closure' %}
 
-Part 7: {% post_link VueJS-vs-React-Hooks-Part-7-render-child-component-with-data.md 'Render Child Component With Data' %}
-
+Part 7: {% post_link VueJS-vs-React-Hooks-Part-7-render-child-component-with-data 'Render Child Component With Data' %}
