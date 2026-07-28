@@ -1,3 +1,9 @@
+---
+title: 'The End Game of LLMs: From Frontier Tech to Essential Infrastructure'
+date: 2026-07-27 00:00:00
+tags: ai
+---
+
 # The End Game of LLMs: From Frontier Tech to Essential Infrastructure
 
 ## Introduction
